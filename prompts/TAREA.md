@@ -38,7 +38,7 @@ Presenta la respuesta organizada en secciones claras usando formato Markdown.
 | ¿Proporciona el código Java completo y comentado? | Sí |
 | ¿La respuesta está bien estructurada con Markdown? | Sí |
 
-## Errores que evite
+##Errores que evite
 - **Prompt impreciso:** Evité pedir un "ejercicio en general" sin indicar el tema técnico exacto (`if-else` y `switch`).
 - **Falta de contexto:** Evité ejercicios abstractos exigiendo un escenario del mundo real.
 - **Falta de estructura:** Evité respuestas desordenadas al exigir el uso explícito de Markdown y secciones delimitadas.
